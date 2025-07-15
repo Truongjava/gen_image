@@ -104,7 +104,7 @@ async def generate_image_file(request: ImageGenerationRequest):
     """
     Generate image and return it as a file download
     """
-    prompt_static = "A realistic photo of a professional doctor in a modern hospital, consulting with a patient in a bright, clean medical office. The doctor is wearing a white lab coat and a stethoscope, showing a caring and attentive expression. Natural lighting through the window, medical posters and equipment in the background. High-resolution, photo-realistic style for topic:"
+    prompt_static = "A realistic photo for topic:"
     try:
         response = client.models.generate_content(
             model="gemini-2.0-flash-preview-image-generation",
