@@ -664,7 +664,17 @@ API_KEYS = [
     "AIzaSyDDnUWW0rS_WyzxqNvRf59IGgCMULMAFjQ",
     "AIzaSyBIedfbcynLwn8g0RT-2P8Wr2BV5XeHRZI",
     "AIzaSyD_XB2o62faHH1Hw0UIFqQ_ypRQ7tTGJXw",
-    "AIzaSyBebpFnXALAh8MTPTzpeG_Q_Ihg1he9PPE"
+    "AIzaSyBebpFnXALAh8MTPTzpeG_Q_Ihg1he9PPE",
+    "AIzaSyASIoVsLPcGiZ2GavqyrPWxX7N7sPZWR8k",
+    "AIzaSyDaCGsny8b_ZlcYE80eT1UAx9ASUJLRKmM",
+    "AIzaSyBGXooqV1aa6SZc-wQLmvG2GenYGhpIuh4",
+    "AIzaSyAQyYkkPP08XjFvd62p1zDEHZzdPlpm03o",
+    "AIzaSyBtsDFxfutDCLtbuUjYCZTIXhm_nomBXUc",
+    "AIzaSyARutxAJiYKzwKDPzIn5THfc7AlOib0dMc",
+    "AIzaSyBK4Jep3kc--b0DDBIT8nWu2AZQIyK4as8",
+    "AIzaSyAR3hwUBUPEWKPkNJptMHwfCozRlFEYApI",
+    "AIzaSyDNsjbn7kpWc8T6BM73XiuqHfELp8qCJb4",
+    "AIzaSyCPsUUcMTAX3jDWF2J5aV6rSCQcWvDDIYU"
 ]
 
 # Quản lý trạng thái API keys
